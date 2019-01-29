@@ -1,7 +1,7 @@
 package M6JDBC;
 
 import java.sql.*;
-public class ejercicio23 {
+public class ejercicio2JDBC2B {
 	public static void main (String [] args) {
 		try
 		{
